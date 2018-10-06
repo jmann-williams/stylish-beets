@@ -40,17 +40,13 @@ nav a:hover {
   text-decoration: underline;
 }
 
-time {
-    color: #3f1622;
-}
-
-footer a {
+a {
   color: #8f2440;
   font-family: "PT Serif", serif;
   text-decoration: none;
 }
 
-footer a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
