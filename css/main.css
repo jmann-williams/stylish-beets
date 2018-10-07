@@ -12,6 +12,7 @@ h1, h2 {
   color: #4c2d39;
   font-family: "PT Sans", sans-serif;
   font-weight: normal;
+  font-size: 1.5rem;
 }
 
 figcaption {
@@ -49,4 +50,19 @@ a {
 a:hover {
   color: #3f1622;
   text-decoration: underline;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
+
+ul {
+  list-style-type: circle;
+  font-size: .8rem;
+}
+
+blockquote p {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-size: 1.5rem;
 }
